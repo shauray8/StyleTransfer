@@ -15,10 +15,11 @@ I’m blending the best of both worlds—IP-Adapter for maintaining facial featu
 1. IP-Adapter keeps facial features on point using cross-attention and U-Nets.
 2. Deadiff adds more control, using Q-Former for detailed style and structure manipulation.
 3. Together, they make style transfer cleaner and more controlled.
-<br>
-feel free to contribute!
 
-source - 
-https://arxiv.org/abs/2403.06951
-https://huggingface.co/docs/diffusers/main/en/using-diffusers/ip_adapter
+feel free to contribute!
+<br>
+
+--- 
+1. https://arxiv.org/abs/2403.06951
+2. https://huggingface.co/docs/diffusers/main/en/using-diffusers/ip_adapter
 
